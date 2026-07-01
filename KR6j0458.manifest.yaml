@@ -1,0 +1,135 @@
+canonical_identifier: bkk:krp/KR6j0458/v1
+canonical_location: https://kanripo.org/bkk/KR6j0458/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說大輪金剛總持陀羅尼經
+  identifiers:
+    alt_id:
+    - T21n1230
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1230.xml
+    old_id: T21n1230
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0458_000.yaml, hash: 'sha256:88d15c0f157ed337d4b630f95ab6ba9b666c3be3257e6746599a0ff2cce15746'}
+  - {seq: 1, filename: KR6j0458_001.yaml, hash: 'sha256:3a61475b1d85d76438a27b9d751e295aaa7d01ef243145e0744dbe0cd952043c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0458_001.markers.yaml, hash: 'sha256:ffe033da60992e832b4892c059e85bb6a688a9a0b31ac979d9a090a2a8ca492e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6703
+  label: 佛說大輪金剛總持陀羅尼經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-1
+    span:
+    - body
+    - 4489
+    - 4489
+  label: 1 法身印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-2
+    span:
+    - body
+    - 4539
+    - 4539
+  label: 2 降伏一切諸鬼神天魔印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-3
+    span:
+    - body
+    - 4581
+    - 4581
+  label: 3 能消滅一切罪障印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-4
+    span:
+    - body
+    - 4811
+    - 4811
+  label: 4 摧碎一切諸天魔及一切惡鬼神蠱道精魅惡趣等印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-5
+    span:
+    - body
+    - 4975
+    - 4975
+  label: 5 降伏一切天魔鬼神斬頭印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-6
+    span:
+    - body
+    - 5029
+    - 5029
+  label: 6 金剛刀印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-7
+    span:
+    - body
+    - 5090
+    - 5090
+  label: 7 金剛火輪印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-8
+    span:
+    - body
+    - 5226
+    - 5226
+  label: 8 金剛藏王降伏魔印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0458_T_001-mulu-9
+    span:
+    - body
+    - 6559
+    - 6559
+  label: 大輪金剛稽首請偈
+  type: mulu
+  level: 1
+hash: sha256:ab735e751d8da51c495497ac34395e008d8f2545abce4b74e8b8a4c2ab1603ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

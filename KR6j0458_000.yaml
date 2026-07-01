@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0458/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大輪金剛總持陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1230.xml
+    old_id: T21n1230
+hash: sha256:88d15c0f157ed337d4b630f95ab6ba9b666c3be3257e6746599a0ff2cce15746
