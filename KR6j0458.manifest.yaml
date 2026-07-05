@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0458_000.yaml, hash: 'sha256:88d15c0f157ed337d4b630f95ab6ba9b666c3be3257e6746599a0ff2cce15746'}
-  - {seq: 1, filename: KR6j0458_001.yaml, hash: 'sha256:3a61475b1d85d76438a27b9d751e295aaa7d01ef243145e0744dbe0cd952043c'}
+  - {seq: 1, filename: KR6j0458_001.yaml, hash: 'sha256:f899e1291792e5c5de3a2920827f254fb9e8d6b3c35dfc9726008a9e2761f01a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0458_001.markers.yaml, hash: 'sha256:ffe033da60992e832b4892c059e85bb6a688a9a0b31ac979d9a090a2a8ca492e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0458_000.markers.yaml, hash: 'sha256:88eb394548d67c7822ee460567db848c6691e98f550e3c850b66ba198b64d901'}
+  - {seq: 1, role: markers, filename: assets/KR6j0458_001.markers.yaml, hash: 'sha256:e7dd86735c911694d21aa830eb7636b95ad444ba63a95424472ef1df5da92c9d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -129,7 +130,4 @@ table_of_contents:
   label: 大輪金剛稽首請偈
   type: mulu
   level: 1
-hash: sha256:ab735e751d8da51c495497ac34395e008d8f2545abce4b74e8b8a4c2ab1603ca
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:084d1ba8388913a4efe7d6c6f225263c28f5f778a54aacbfd29a638ea6394194
