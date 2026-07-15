@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0458/v1
 canonical_location: https://kanripo.org/bkk/KR6j0458/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大輪金剛總持陀羅尼經
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0458_000.yaml, hash: 'sha256:88d15c0f157ed337d4b630f95ab6ba9b666c3be3257e6746599a0ff2cce15746'}
-  - {seq: 1, filename: KR6j0458_001.yaml, hash: 'sha256:f899e1291792e5c5de3a2920827f254fb9e8d6b3c35dfc9726008a9e2761f01a'}
+  - {seq: 1, filename: KR6j0458_001.yaml, hash: 'sha256:f3fdf3257b82e9089a99685b8a51d5d16d0b0732cdd0e34e891864483b17b56e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0458_000.markers.yaml, hash: 'sha256:88eb394548d67c7822ee460567db848c6691e98f550e3c850b66ba198b64d901'}
-  - {seq: 1, role: markers, filename: assets/KR6j0458_001.markers.yaml, hash: 'sha256:e7dd86735c911694d21aa830eb7636b95ad444ba63a95424472ef1df5da92c9d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0458_001.markers.yaml, hash: 'sha256:f71e67ac39867f72ecea84eae8c43ce53ef521dde8ff1ce4a1343edf99131e25'}
 table_of_contents:
 - ref:
     seq: 1
@@ -130,4 +130,7 @@ table_of_contents:
   label: 大輪金剛稽首請偈
   type: mulu
   level: 1
-hash: sha256:084d1ba8388913a4efe7d6c6f225263c28f5f778a54aacbfd29a638ea6394194
+hash: sha256:3bd9d2b9f53354f8e1f2b7ef7c34cd629ea7d955834c3ecb20e5764ecd1a42fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
